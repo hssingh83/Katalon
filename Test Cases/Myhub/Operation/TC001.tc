@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Opertaion Screen</description>
+   <name>TC001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b6bc133-616d-4a84-9b28-ef26556d9436</testCaseGuid>
+</TestCaseEntity>

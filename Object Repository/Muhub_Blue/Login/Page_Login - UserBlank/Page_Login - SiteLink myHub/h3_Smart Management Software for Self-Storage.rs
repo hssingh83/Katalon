@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Smart Management Software for Self-Storage</name>
+   <tag></tag>
+   <elementGuidId>375ef4a2-960e-4ad4-93fe-f89b2aef409f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='loginform']/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.text-center.text-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>b4d58a34-ce77-4eed-b522-6fb6805c3461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center text-primary</value>
+      <webElementGuid>1ad41069-f322-4292-924d-79a835f2a3f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Smart Management Software for Self-Storage</value>
+      <webElementGuid>8c913a79-47b6-4e79-aaed-5126da574708</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginform&quot;)/h3[@class=&quot;text-center text-primary&quot;]</value>
+      <webElementGuid>68cab647-1462-4326-903b-587024dddca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='loginform']/h3</value>
+      <webElementGuid>5cf84d89-e974-4c50-b38b-1c48336d5298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/following::h3[1]</value>
+      <webElementGuid>bcc7062d-f267-45b6-b41b-70adb25f6816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SiteLink myHub information page'])[1]/preceding::h3[1]</value>
+      <webElementGuid>fca29fd1-252d-4b95-b964-6931801ae17c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Smart Management Software for Self-Storage']/parent::*</value>
+      <webElementGuid>6075edac-94e0-44ca-b769-af19260274dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>bf73e87e-b4d6-47ea-981f-e7f7b61b6e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Smart Management Software for Self-Storage' or . = 'Smart Management Software for Self-Storage')]</value>
+      <webElementGuid>22146ce1-2aef-4884-bdce-62d8861c6ee0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

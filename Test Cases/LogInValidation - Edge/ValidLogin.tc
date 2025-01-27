@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valid Login</description>
+   <name>ValidLogin</name>
+   <tag>SmokeTesting</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2d65bc9-2c4a-4f58-a7d0-4aa31cac5b78</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>10da3fde-fe76-4fdb-afe0-7fc10820341d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>10da3fde-fe76-4fdb-afe0-7fc10820341d</id>
+      <masked>false</masked>
+      <name>testUserName</name>
+   </variable>
+</TestCaseEntity>

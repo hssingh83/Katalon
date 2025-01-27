@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password_panel-footer</name>
+   <tag></tag>
+   <elementGuidId>9320b9f0-e2df-4067-a2f5-3b1ef1142826</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='loginform']/div/div/form/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.panel-footer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c74592df-367d-4e54-b8cf-bbee5bcc27fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-footer</value>
+      <webElementGuid>bef1a5f8-cdb1-409f-90ff-6ce964180bea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginform&quot;)/div[@class=&quot;row login-container&quot;]/div[@class=&quot;col-xs-12 col-sm-6 col-md-5 col-md-offset-1 slLoginPanel&quot;]/form[1]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-footer&quot;]</value>
+      <webElementGuid>b7065fc1-461e-413f-abf1-f1904e51c214</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='loginform']/div/div/form/div/div[3]</value>
+      <webElementGuid>09d5d56b-93c5-47f5-b848-d2cc4e930322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[2]</value>
+      <webElementGuid>3d0419c6-3a7b-41b3-b068-4e3a14a4957b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/following::div[4]</value>
+      <webElementGuid>15a4dd49-9ba3-45b0-8ce2-2cfbd7ff7695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Control Center'])[1]/preceding::div[1]</value>
+      <webElementGuid>9bc84785-dc78-4420-9025-4e3329a403a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corp Code'])[2]/preceding::div[3]</value>
+      <webElementGuid>e6cac000-c5d8-4b5c-b52d-7f2b1e647821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>c66cb78c-0dbc-4550-ac03-be96cc94c062</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Operations</name>
+   <tag></tag>
+   <elementGuidId>36121275-ce50-4ab7-8f60-5835db41de8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div[3]/nav/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-content.visible > ul > li:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>71d55961-31ae-49f6-acbb-6add826ab49a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Operations</value>
+      <webElementGuid>e150a23d-dafa-4f8e-9e01-25fabb37718f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;left-nav st-effect-1 st-menu-open&quot;]/nav[@class=&quot;st-menu st-effect-1&quot;]/div[@class=&quot;menu-content visible&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>c2f81433-232c-48de-a277-0e1bed694cf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div[3]/nav/div/ul/li[2]/a</value>
+      <webElementGuid>d871fdd3-a327-4c2a-ad41-8c97db349721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::a[3]</value>
+      <webElementGuid>5f46eaf4-34e2-4191-90cb-c914c55e80bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Operations']/parent::*</value>
+      <webElementGuid>904cf6d0-889e-4ec3-8260-9ab0d5195106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li[2]/a</value>
+      <webElementGuid>cf9371aa-d14e-4650-bef8-4e7a9485bbde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Operations' or . = ' Operations')]</value>
+      <webElementGuid>b333e318-3edf-4a57-ac59-7b944157ce79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

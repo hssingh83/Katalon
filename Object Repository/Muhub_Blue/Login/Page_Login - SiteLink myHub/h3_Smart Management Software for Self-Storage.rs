@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Smart Management Software for Self-Storage</name>
+   <tag></tag>
+   <elementGuidId>63339d66-b54a-46de-a8b5-1bd241d2d5ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.text-center.text-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>ebc1376f-7a99-4eb8-abe1-327a5c326d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center text-primary</value>
+      <webElementGuid>9bae10c7-14dd-4bb2-ad91-29b5b4b322aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Smart Management Software for Self-Storage</value>
+      <webElementGuid>2dc55d79-5542-4158-87d1-374641befc35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginform&quot;)/h3[@class=&quot;text-center text-primary&quot;]</value>
+      <webElementGuid>d66a6ccc-de01-4ee7-b5e4-2e77d1a1241b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='loginform']/h3</value>
+      <webElementGuid>61623c0a-ace3-42f7-ad49-5f815fb826ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/following::h3[1]</value>
+      <webElementGuid>69f18db0-bd0e-41a3-9876-a7888966c92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SiteLink myHub information page'])[1]/preceding::h3[1]</value>
+      <webElementGuid>49c15f4c-8438-4810-9ecc-f025897c2f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Smart Management Software for Self-Storage']/parent::*</value>
+      <webElementGuid>26f4fde7-b904-4fc6-a608-d2b56db6968b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>8cbd07c3-895e-45e0-ab16-c8d08240306b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Smart Management Software for Self-Storage' or . = 'Smart Management Software for Self-Storage')]</value>
+      <webElementGuid>10a1e032-b3ea-445a-9a33-257ef7cf4d0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

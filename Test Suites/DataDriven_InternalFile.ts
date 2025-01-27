@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DataDriven_InternalFile</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>34d8e450-64de-461e-8ab6-1a3e046f344f</testSuiteGuid>
+   <testCaseLink>
+      <guid>6c4b704f-1216-495f-aa4f-ddb76b233ab5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Datadriven/FindPlace</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6b470db3-ebe3-49c7-9dd2-9bebb4854095</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/100 cities</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>6b470db3-ebe3-49c7-9dd2-9bebb4854095</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city</value>
+         <variableId>896a427e-69f1-4fec-9247-133a871f681e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6b470db3-ebe3-49c7-9dd2-9bebb4854095</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>result</value>
+         <variableId>a9da055f-c6cb-4ca4-88ed-0cded7f19dad</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

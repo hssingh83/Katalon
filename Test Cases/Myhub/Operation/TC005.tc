@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tranfer</description>
+   <name>TC005</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e440efc5-f50c-44d2-9ed1-93c1389f976e</testCaseGuid>
+</TestCaseEntity>

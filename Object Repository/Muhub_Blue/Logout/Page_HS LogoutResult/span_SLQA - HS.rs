@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SLQA - HS</name>
+   <tag></tag>
+   <elementGuidId>c5d5be53-c530-4c12-a002-cd4e753522c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div[2]/div[2]/div/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.menu-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>57315b91-6053-44cd-95b5-8a3d0e0bc490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-label</value>
+      <webElementGuid>bde777b0-7f17-48e9-b638-09bb92a2cbc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SLQA - HS</value>
+      <webElementGuid>6ed2e26a-c2c8-4740-86c5-d714e5e7ebb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;top-nav&quot;]/div[@class=&quot;float-right&quot;]/div[@class=&quot;top-nav-item location-menu&quot;]/div[@class=&quot;top-nav-dropdown&quot;]/span[1]/span[@class=&quot;menu-label&quot;]</value>
+      <webElementGuid>f507060d-ff3f-4935-87d1-c38be4fd4fca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div[2]/div[2]/div/div/span/span</value>
+      <webElementGuid>0363d7eb-fe27-4209-9a50-64c8dd750be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::span[2]</value>
+      <webElementGuid>f9dd1270-4990-49c3-b0b2-41926c24e19d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reminders'])[1]/preceding::span[5]</value>
+      <webElementGuid>3ce5d44f-986b-4072-8712-87c0fe21ac32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SLQA - HS']/parent::*</value>
+      <webElementGuid>3591cab4-6c5a-4629-bcd0-c5bc613b01e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>e3246cc6-3be5-4b10-86ae-9397d5e15662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SLQA - HS' or . = 'SLQA - HS')]</value>
+      <webElementGuid>f1b51a7e-f1be-4b69-99ed-2ef829bdcc97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

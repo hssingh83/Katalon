@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merchandise</description>
+   <name>TC008</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0eed43c-8d36-4d61-9640-6982fc8dead0</testCaseGuid>
+</TestCaseEntity>

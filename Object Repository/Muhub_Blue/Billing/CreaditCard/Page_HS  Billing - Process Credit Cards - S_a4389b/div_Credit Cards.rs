@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Credit Cards</name>
+   <tag></tag>
+   <elementGuidId>3a6f121c-d09c-45ab-bd6d-def2b1b3e03f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainHubContent']/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.page-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5d572db-f253-47e4-bbca-aa420805eb7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-title</value>
+      <webElementGuid>eba7e0d4-bf86-4462-8f4e-8c2c20fb39b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Credit Cards</value>
+      <webElementGuid>c1ba829a-51d2-4019-be63-df928160a691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHubContent&quot;)/div[@class=&quot;content st-menu-open&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row bottom-margin&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;page-title&quot;]</value>
+      <webElementGuid>8ff1080a-4b3c-46b9-b4cc-62859e5977ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainHubContent']/div[2]/div/div/div/div/div</value>
+      <webElementGuid>209e697f-708d-47d6-93d4-89e0f8f135ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current (0)'])[1]/preceding::div[1]</value>
+      <webElementGuid>d6ad2c94-1c3f-4939-8770-e4023a9a73da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expired (3)'])[1]/preceding::div[1]</value>
+      <webElementGuid>49bab43f-1750-4945-b08a-572d0c766649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>d52e355e-86a6-4e2f-95b1-ec96cc9e4e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Credit Cards' or . = 'Credit Cards')]</value>
+      <webElementGuid>f7d94bcc-41ad-4bac-851e-b8b4946852a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

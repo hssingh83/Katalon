@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Over 1,000 places in Noida</name>
+   <tag></tag>
+   <elementGuidId>6bbf98f4-bf3c-473b-812a-5b67853af4d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-content']/div/div/div/div/div/section/h1/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.tyi4kqb.atm_c8_km0zk7.atm_g3_18khvle.atm_fr_1m9t47k.atm_cs_10d11i2.dir.dir-ltr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8b67a10e-6b4a-4e94-949a-286672fa3688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tyi4kqb atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k atm_cs_10d11i2 dir dir-ltr</value>
+      <webElementGuid>058a4a8e-fb6b-44e4-86e9-bb6a658e42ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fbbcd934-4948-4477-ba4e-3f2faff24510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>stays-page-heading</value>
+      <webElementGuid>1bb9ba6e-9696-428a-b5bb-b3e503c89680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Over 1,000 places in Noida</value>
+      <webElementGuid>7a03a015-5343-4b0c-88c1-119c9e754edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-content&quot;)/div[@class=&quot;l196t2l1 atm_gz_p5ox87 atm_h0_p5ox87 atm_gq_r5k8ab atm_gz_1od0ugv__oggzyc atm_h0_1od0ugv__oggzyc atm_gq_idpfg4__oggzyc atm_gz_p5ox87__1v156lz atm_h0_p5ox87__1v156lz atm_gq_idpfg4__1v156lz dir dir-ltr&quot;]/div[@class=&quot;fifuzsw atm_gq_p5ox87 atm_h3_p5ox87 dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 atm_9s_1txwivl_vmtskl atm_92_1yyfdc7_vmtskl atm_9s_1txwivl_9in345 atm_92_1yyfdc7_9in345 dir dir-ltr&quot;]/div[1]/div[@class=&quot;t17a5psn atm_9s_1txwivl atm_ar_1bp4okc atm_cx_evh4rp dir dir-ltr&quot;]/section[1]/h1[@class=&quot;hpipapi atm_7l_1kw7nm4 atm_c8_1x4eueo atm_cs_1kw7nm4 atm_g3_1kw7nm4 atm_gi_idpfg4 atm_l8_idpfg4 atm_kd_idpfg4_pfnrn2 dir dir-ltr&quot;]/span[@class=&quot;tyi4kqb atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k atm_cs_10d11i2 dir dir-ltr&quot;]</value>
+      <webElementGuid>58de4148-0b00-4ed3-9419-95a3d8a2c58f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-content']/div/div/div/div/div/section/h1/span[2]</value>
+      <webElementGuid>c64886bb-f01a-49d6-82aa-19fd929c7a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search results; Over 1,000 places in Noida'])[1]/following::span[1]</value>
+      <webElementGuid>67c391ee-7ee3-4af8-93ab-6db368e7e93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show map'])[1]/following::span[2]</value>
+      <webElementGuid>5eaf8077-e36f-4675-bd4c-8a85a3412d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guest favourite'])[1]/preceding::span[13]</value>
+      <webElementGuid>b048d7ac-6902-456d-a75b-b8e298ab5883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flat in Noida'])[1]/preceding::span[22]</value>
+      <webElementGuid>833c49d9-e762-4dcd-bad8-408b063fad06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Over 1,000 places in Noida']/parent::*</value>
+      <webElementGuid>f689d36a-a667-4c53-9a2d-f0a99764df72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span[2]</value>
+      <webElementGuid>f92d45c5-ba0a-4433-9251-90ca51b6b4fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Over 1,000 places in Noida' or . = 'Over 1,000 places in Noida')]</value>
+      <webElementGuid>dea34084-e877-430c-bcfd-f76c824ff09b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

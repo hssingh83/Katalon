@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Visit the SiteLink myHub information pag_9364d9</name>
+   <tag></tag>
+   <elementGuidId>04a8f366-d058-48af-9bfa-6be9e7644722</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='loginform']/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>61394a75-3c6c-4b29-8e16-f49950c5d4d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>8fe17d60-2ac0-454f-a129-f32c03e87b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Visit the SiteLink myHub information page  to learn more. For a Demo login, contact Sales.</value>
+      <webElementGuid>7e297e62-05d0-4437-9f81-88a040715352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginform&quot;)/h4[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>ae6fcd40-a12f-451b-b392-529df5b7a15a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='loginform']/h4</value>
+      <webElementGuid>bd7adeae-ab71-45aa-b3b1-45fe215154a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Management Software for Self-Storage'])[1]/following::h4[1]</value>
+      <webElementGuid>6a7a903c-4898-4777-a6ff-ad67b2a8e9ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Visit the']/parent::*</value>
+      <webElementGuid>766904c9-81cd-4612-978b-3b0df92a0034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>5fc5eb03-be7f-4366-ab74-60d23cc00899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Visit the SiteLink myHub information page  to learn more. For a Demo login, contact Sales.' or . = 'Visit the SiteLink myHub information page  to learn more. For a Demo login, contact Sales.')]</value>
+      <webElementGuid>5add9be1-065a-430f-a8aa-338619d3783e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

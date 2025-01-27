@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_HS_menu-down-arrow</name>
+   <tag></tag>
+   <elementGuidId>9cca72bb-5aa6-401c-974e-8fefdc4db5dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div[2]/div[2]/div[4]/div/span/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.top-nav-item.logout-menu > div.top-nav-dropdown > span > span.menu-down-arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>161fb2f6-2260-495b-94af-b001c0fb43df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-down-arrow</value>
+      <webElementGuid>230d3760-d2c4-484e-9335-8617a1acd81c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;top-nav&quot;]/div[@class=&quot;float-right&quot;]/div[@class=&quot;top-nav-item logout-menu&quot;]/div[@class=&quot;top-nav-dropdown&quot;]/span[1]/span[@class=&quot;menu-down-arrow&quot;]</value>
+      <webElementGuid>d857acf7-98f1-4a45-94a1-97f99f1dbecd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div[2]/div[2]/div[4]/div/span/span[2]</value>
+      <webElementGuid>2095827d-609d-4766-a6a3-46996fe55e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HS'])[1]/following::span[1]</value>
+      <webElementGuid>7b0a0d6e-9e5b-4059-8c67-f97ee937d7cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Log'])[1]/following::span[3]</value>
+      <webElementGuid>3a2fc8cb-3b78-41d4-9c79-ad3f2b1bfedf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::span[1]</value>
+      <webElementGuid>e5b9c1e0-125e-4dcc-811f-7e01fc201f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span/span[2]</value>
+      <webElementGuid>57b2c853-3f2a-42c0-af2b-7be54f7751c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

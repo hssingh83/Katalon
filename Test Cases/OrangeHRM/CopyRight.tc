@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerifyCopyRightInfo</description>
+   <name>CopyRight</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db4d6933-005c-496e-934a-e09a086d3430</testCaseGuid>
+</TestCaseEntity>

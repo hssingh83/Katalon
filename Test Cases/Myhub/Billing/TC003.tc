@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>CreaditCard</description>
+   <name>TC003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8169be94-1163-4ee0-8307-0fd9cc0c2bee</testCaseGuid>
+</TestCaseEntity>

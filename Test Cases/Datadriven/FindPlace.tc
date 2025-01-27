@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FindPlace</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8bf405f-c7fb-4053-956f-670868228763</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>896a427e-69f1-4fec-9247-133a871f681e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a9da055f-c6cb-4ca4-88ed-0cded7f19dad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Gurugram'</defaultValue>
+      <description></description>
+      <id>896a427e-69f1-4fec-9247-133a871f681e</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'Over 1,000 places in Gurugram'</defaultValue>
+      <description></description>
+      <id>a9da055f-c6cb-4ca4-88ed-0cded7f19dad</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

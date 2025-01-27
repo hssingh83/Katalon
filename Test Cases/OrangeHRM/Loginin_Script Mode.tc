@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Loginin_Script Mode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18ccaf82-7ad0-4fb0-b647-c8d3f421c7a1</testCaseGuid>
+</TestCaseEntity>

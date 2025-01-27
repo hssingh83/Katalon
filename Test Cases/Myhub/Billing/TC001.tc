@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invoice</description>
+   <name>TC001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0cb975d4-cf92-4ec3-b507-0421b43ac9a3</testCaseGuid>
+</TestCaseEntity>

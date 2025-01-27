@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valid Login</description>
+   <name>ValidLogin</name>
+   <tag>SmokeTesting</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>badb453c-2438-44dc-9346-258be9c95b1f</testCaseGuid>
+</TestCaseEntity>

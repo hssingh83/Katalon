@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Daily Close - January 25, 2025</name>
+   <tag></tag>
+   <elementGuidId>23235a6b-afa6-4ad5-a6b5-ffe14580465e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainHubContent']/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.page-title.blue</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>96b6db0d-3f3b-4023-99fc-58ce72923b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-title blue</value>
+      <webElementGuid>ecad4be5-20b4-4772-a7e8-0f518a5a57e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daily Close - January 25, 2025</value>
+      <webElementGuid>3eb8cbe2-cc63-460b-bd17-aea7559dbc28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHubContent&quot;)/div[@class=&quot;content st-menu-open&quot;]/div[@class=&quot;container-fluid daily-close-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-12&quot;]/div[@class=&quot;page-title blue&quot;]</value>
+      <webElementGuid>c02349d8-4df6-4c24-bc58-b156ad4fe506</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainHubContent']/div[2]/div/div/div/div</value>
+      <webElementGuid>24029d39-1184-48ad-96d9-18ce8dd317fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amounts'])[1]/preceding::div[1]</value>
+      <webElementGuid>3807a4bb-f6ed-423e-91aa-7474ab14fa3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash'])[1]/preceding::div[2]</value>
+      <webElementGuid>0062fc06-849e-4f33-8518-0c721cf01af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daily Close - January 25, 2025']/parent::*</value>
+      <webElementGuid>69d049f2-8de6-4f4e-8965-2fb039fe807a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>c9d99e3e-5a18-41f4-bb74-45b840d741cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Daily Close - January 25, 2025' or . = 'Daily Close - January 25, 2025')]</value>
+      <webElementGuid>acaceaaa-f665-481d-9d7f-ebaf3a427260</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

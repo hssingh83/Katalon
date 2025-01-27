@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Move Out</description>
+   <name>TC006</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58e47d11-0b79-48e4-a550-36aeb8097fd0</testCaseGuid>
+</TestCaseEntity>

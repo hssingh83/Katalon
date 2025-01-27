@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UI text should be avaiable</description>
+   <name>TC_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67c3e605-8f11-4d3b-8a14-e89f1b07c378</testCaseGuid>
+</TestCaseEntity>

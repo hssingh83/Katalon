@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Blank Password</description>
+   <name>TC003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff7ef0d9-c30b-4881-88fc-47fa8a861a2d</testCaseGuid>
+</TestCaseEntity>

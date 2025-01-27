@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Payments</description>
+   <name>TC003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2738390a-a06a-4174-bbeb-d47b7d9d73ec</testCaseGuid>
+</TestCaseEntity>

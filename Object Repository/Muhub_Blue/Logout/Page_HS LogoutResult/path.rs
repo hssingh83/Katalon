@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>f53e837c-481a-49a9-bb87-ed26dd40ca79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.top-nav-item.logout-menu > div.top-nav-dropdown > span > span.menu-down-arrow > svg.svg-inline--fa.fa-caret-down.fa-w-10 > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>1cad673a-73ef-480c-950f-61a9d0bc7249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>51fd1e7c-2af5-4ebb-8472-b9b9ed45cc8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z</value>
+      <webElementGuid>f34f9cb5-6969-4768-91ee-9e0f0da30429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;top-nav&quot;]/div[@class=&quot;float-right&quot;]/div[@class=&quot;top-nav-item logout-menu&quot;]/div[@class=&quot;top-nav-dropdown&quot;]/span[1]/span[@class=&quot;menu-down-arrow&quot;]/svg[@class=&quot;svg-inline--fa fa-caret-down fa-w-10&quot;]/path[1]</value>
+      <webElementGuid>a6d3ee84-091d-41cb-b0e6-e6a4cba08911</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

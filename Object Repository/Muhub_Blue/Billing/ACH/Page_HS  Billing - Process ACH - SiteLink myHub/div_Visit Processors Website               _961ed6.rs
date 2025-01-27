@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Visit Processors Website               _961ed6</name>
+   <tag></tag>
+   <elementGuidId>de34c0db-9838-4257-b02f-1063e40b7cbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AchBatchViewContainer']/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.page-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef20ffaf-becd-404d-814e-0a2a813d2820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>automation_id</name>
+      <type>Main</type>
+      <value>div_achBatchViewTitle</value>
+      <webElementGuid>2478b75b-a287-4dda-9e08-877dd484923a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-title</value>
+      <webElementGuid>fa211fb5-d475-40f6-951e-95469b23d9fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Visit Processor's Website
+                        ACH
+                    </value>
+      <webElementGuid>d6eb1280-aefe-4eeb-9acc-f13610bcd5d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AchBatchViewContainer&quot;)/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;page-title&quot;]</value>
+      <webElementGuid>2adb5cac-d723-49e2-829f-906c712153ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AchBatchViewContainer']/div/div/div/div/div</value>
+      <webElementGuid>d1480576-b96b-4463-b3e5-115dfde2314e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>9385266a-fb47-4374-9aa2-7992b468f464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;
+                        Visit Processor&quot; , &quot;'&quot; , &quot;s Website
+                        ACH
+                    &quot;) or . = concat(&quot;
+                        Visit Processor&quot; , &quot;'&quot; , &quot;s Website
+                        ACH
+                    &quot;))]</value>
+      <webElementGuid>b57e3c9b-7c56-4b6e-8ee7-9aaf64cd8ae3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

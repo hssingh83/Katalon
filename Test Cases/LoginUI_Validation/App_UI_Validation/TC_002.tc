@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ScrollBar should be avaiable</description>
+   <name>TC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7fce523-4b2f-4ed1-b022-8366b5d3c26c</testCaseGuid>
+</TestCaseEntity>

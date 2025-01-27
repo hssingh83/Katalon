@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Billing</name>
+   <tag></tag>
+   <elementGuidId>4d272c08-6f0f-4a25-a4ce-6b9c71c2bb11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div[3]/nav/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-content.visible > ul > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a5c63d8c-d5fa-4214-8f18-b1189a3f9026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Billing</value>
+      <webElementGuid>87e5f37b-ef23-4383-8e11-cd7bc32ac2e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;left-nav st-effect-1 st-menu-open&quot;]/nav[@class=&quot;st-menu st-effect-1&quot;]/div[@class=&quot;menu-content visible&quot;]/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>11c67d1b-d311-4acf-b044-b5632bdf463f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div[3]/nav/div/ul/li[3]/a</value>
+      <webElementGuid>a0aa36fb-13c2-4a1c-818d-7f10c9192bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Billing']/parent::*</value>
+      <webElementGuid>47509178-38bc-46d2-8a35-02736e26501a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li[3]/a</value>
+      <webElementGuid>ae35922a-41a7-4339-a913-11700d29f2e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Billing' or . = ' Billing')]</value>
+      <webElementGuid>930a2464-fedd-40ab-b733-0edb115cad6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ACH</description>
+   <name>TC002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30c6f1a8-3e64-42a1-9ca3-28c1e8265fc7</testCaseGuid>
+</TestCaseEntity>

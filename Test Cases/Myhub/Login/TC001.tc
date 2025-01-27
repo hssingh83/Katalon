@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valid Login</description>
+   <name>TC001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92b26f7a-4cb3-409d-8d7c-05e92cb4dfe0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e5c6e19-259c-4ba1-81e6-7bb0fd2019ad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e1af79b-7cd6-47d3-a581-ce3c1f651619</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40f87bc6-b1b5-4399-b0c4-a71dcad9a6df</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SLQA'</defaultValue>
+      <description></description>
+      <id>0e5c6e19-259c-4ba1-81e6-7bb0fd2019ad</id>
+      <masked>false</masked>
+      <name>Corp</name>
+   </variable>
+   <variable>
+      <defaultValue>'HS'</defaultValue>
+      <description></description>
+      <id>9e1af79b-7cd6-47d3-a581-ce3c1f651619</id>
+      <masked>false</masked>
+      <name>Location</name>
+   </variable>
+   <variable>
+      <defaultValue>'HS'</defaultValue>
+      <description></description>
+      <id>40f87bc6-b1b5-4399-b0c4-a71dcad9a6df</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+</TestCaseEntity>

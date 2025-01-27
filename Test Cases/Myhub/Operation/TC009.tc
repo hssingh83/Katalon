@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Daily Close</description>
+   <name>TC009</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95b5390f-f2c6-4ef1-b4ba-c2114dcbc1cf</testCaseGuid>
+</TestCaseEntity>

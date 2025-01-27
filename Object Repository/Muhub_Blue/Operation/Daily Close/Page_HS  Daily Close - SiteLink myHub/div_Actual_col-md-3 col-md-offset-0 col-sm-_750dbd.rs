@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Actual_col-md-3 col-md-offset-0 col-sm-_750dbd</name>
+   <tag></tag>
+   <elementGuidId>367eb41a-ddff-4b5e-aa27-605ae5fb13f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainHubContent']/div[2]/div/div[2]/div/div[2]/div/form/div[5]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-3.col-md-offset-0.col-sm-3.col-sm-offset-0.col-xs-offset-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4fac402c-7b0b-44ac-92ee-082e66aaeae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-3 col-md-offset-0 col-sm-3 col-sm-offset-0 col-xs-offset-8</value>
+      <webElementGuid>95bbd226-74eb-41dd-b729-60fc8fd388a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHubContent&quot;)/div[@class=&quot;content st-menu-open&quot;]/div[@class=&quot;container-fluid daily-close-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;section blue col-xs-12 col-md-7&quot;]/div[@class=&quot;section-body&quot;]/div[1]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-md-offset-0 col-sm-3 col-sm-offset-0 col-xs-offset-8&quot;]</value>
+      <webElementGuid>a239ed6b-fd01-4484-beb9-751740daa1de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainHubContent']/div[2]/div/div[2]/div/div[2]/div/form/div[5]/div[3]</value>
+      <webElementGuid>4bbb4e41-330c-49f1-a0f9-c67ae49c6c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actual'])[5]/following::div[1]</value>
+      <webElementGuid>8621e1dd-8173-4165-9ead-22df697dc2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::div[2]</value>
+      <webElementGuid>81e1017c-6ae2-4aa0-9c35-a39be19372a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::div[1]</value>
+      <webElementGuid>16cbc753-b463-4d5f-a561-16ba76b1b99e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily Payment'])[1]/preceding::div[2]</value>
+      <webElementGuid>d958d9b7-8b0c-4a3b-840c-47182a008417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[3]</value>
+      <webElementGuid>44bfd596-5cf2-420d-8104-8fb39d075151</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

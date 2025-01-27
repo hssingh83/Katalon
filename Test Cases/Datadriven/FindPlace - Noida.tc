@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FindPlace - Noida</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a260f703-65bb-49fd-8f88-96175e134eef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b758e0c4-08ab-46ff-81f7-741908651544</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e973d384-5490-4c75-aaee-09e84ec1907e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Gurugram'</defaultValue>
+      <description></description>
+      <id>b758e0c4-08ab-46ff-81f7-741908651544</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'Over 1,000 places in Gurugram'</defaultValue>
+      <description></description>
+      <id>e973d384-5490-4c75-aaee-09e84ec1907e</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>
