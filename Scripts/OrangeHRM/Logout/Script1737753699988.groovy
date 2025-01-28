@@ -23,11 +23,11 @@ WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/aut
 
 WebUI.click(findTestObject('Object Repository/OrangeHRM/Page_OrangeHRM/div_Username'))
 
-WebUI.setText(findTestObject('Object Repository/OrangeHRM/Page_OrangeHRM/input_Username_username'), 'Admin')
+WebUI.setText(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/input_Username_username'), 'Admin')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/OrangeHRM/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
-WebUI.sendKeys(findTestObject('Object Repository/OrangeHRM/Page_OrangeHRM/input_Password_password'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/i_Upgrade_oxd-icon bi-caret-down-fill oxd-u_ca92f9'))
 
@@ -38,4 +38,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/OrangeHRM/Login/P
 WebUI.click(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/a_Logout'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/OrangeHRM/Page_OrangeHRM/h5_Login'), 'Login')
+
+WebUI.closeBrowser()
 
