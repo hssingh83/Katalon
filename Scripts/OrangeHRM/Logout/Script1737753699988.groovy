@@ -29,13 +29,13 @@ WebUI.setEncryptedText(findTestObject('Object Repository/OrangeHRM/Page_OrangeHR
 
 WebUI.sendKeys(findTestObject('Object Repository/OrangeHRM/Page_OrangeHRM/input_Password_password'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/OrangeHRM/Page_OrangeHRM/i_Upgrade_oxd-icon bi-caret-down-fill oxd-u_ca92f9'))
+WebUI.click(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/i_Upgrade_oxd-icon bi-caret-down-fill oxd-u_ca92f9'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/OrangeHRM/Page_OrangeHRM/a_Logout'), 'Logout')
+WebUI.verifyElementText(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/a_Logout'), 'Logout')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/OrangeHRM/Page_OrangeHRM/a_Logout'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/a_Logout'))
 
-WebUI.click(findTestObject('Object Repository/OrangeHRM/Page_OrangeHRM/a_Logout'))
+WebUI.click(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/a_Logout'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/OrangeHRM/Page_OrangeHRM/h5_Login'), 'Login')
 

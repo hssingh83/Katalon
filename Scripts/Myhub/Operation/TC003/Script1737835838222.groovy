@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://myhubblue.smdservers.net/Account/Login?ReturnUrl=%2f')
+WebUI.navigateToUrl(GlobalVariable.MyhubURL)
 
 WebUI.maximizeWindow()
 

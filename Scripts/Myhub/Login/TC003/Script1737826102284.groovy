@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://myhubblue.smdservers.net/Account/Login?ReturnUrl=%2f')
+WebUI.navigateToUrl(GlobalVariable.MyhubURL)
 
 WebUI.setText(findTestObject('Object Repository/Muhub_Blue/Login/Page_Login - BlankPassword/input_Corp Code_Client.CorpCode'), 
     'SLQA')
@@ -40,7 +40,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Muhub_Blue/Login/Page_
 WebUI.verifyElementText(findTestObject('Object Repository/Muhub_Blue/Login/Page_Login - BlankPassword/h4_Visit the SiteLink myHub information pag_9364d9'), 
     'Visit the SiteLink myHub information page to learn more. For a Demo login, contact Sales.')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Muhub_Blue/Login/Page_Login - BlankPassword/h1_SiteLink myHub'), 'SiteLink myHub')
+WebUI.verifyElementText(findTestObject('Object Repository/Muhub_Blue/Login/Page_Login - BlankPassword/h1_SiteLink myHub'), 
+    'SiteLink myHub')
 
 WebUI.closeBrowser()
 

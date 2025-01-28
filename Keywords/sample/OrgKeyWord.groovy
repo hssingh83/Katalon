@@ -20,39 +20,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-
-
-public class MyKeyword1 {
+public class OrgKeyWord {
 	@Keyword
 	def Applogin () {
 
-		WebUI.navigateToUrl('https://myhubstaging.smdservers.net/')
-
+		WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 		WebUI.maximizeWindow()
-
-		WebUI.setText(findTestObject('Object Repository/Muhub_Blue/DefaultLogin/Page_Login - SiteLink myHub/input_Corp Code_Client.CorpCode'),
-				'SLQA')
-
-		WebUI.setText(findTestObject('Object Repository/Muhub_Blue/DefaultLogin/Page_Login - SiteLink myHub/input_Location Code_Client.LocationCode'),
-				'HS')
-
-		WebUI.setText(findTestObject('Object Repository/Muhub_Blue/DefaultLogin/Page_Login - SiteLink myHub/input_User Name_Client.UserName'),
-				'HS')
-
-		WebUI.click(findTestObject('Object Repository/Muhub_Blue/DefaultLogin/Page_Login - SiteLink myHub/input_Password_btn btn-lg btn-block btn-primary'))
-
-		WebUI.setEncryptedText(findTestObject('Object Repository/Muhub_Blue/DefaultLogin/Page_Login - SiteLink myHub/input_Password_Client.Password'),
-				'm5Ad+DnEs+o=')
-
-		WebUI.click(findTestObject('Object Repository/Muhub_Blue/DefaultLogin/Page_Login - SiteLink myHub/input_Password_btn btn-lg btn-block btn-primary'))
-
-		WebUI.verifyTextPresent('myHub', false)
+		WebUI.setText(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/input_Username_username'), 'Admin')
+		WebUI.setText(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/input_Password_password'), 'admin123')
+		WebUI.click(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/button_Login'))
+		WebUI.click(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/i_Upgrade_oxd-icon bi-caret-down-fill oxd-u_ca92f9'))
+		WebUI.verifyElementPresent(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/a_Logout'), 30)
+		WebUI.verifyElementClickable(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/a_Logout'))
 	}
 
 	@Keyword
-	def Congrats() {
-		println ('Test Case is Pass')
+	def congrats () {
+
+		println ("Test Case is Pass")
 	}
 }
-
-

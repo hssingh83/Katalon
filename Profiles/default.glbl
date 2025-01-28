@@ -26,7 +26,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>myhub URL</description>
-      <initValue>'https://myhubblue.smdservers.net/'</initValue>
+      <initValue>'https://myhubstaging.smdservers.net/'</initValue>
       <name>MyhubURL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

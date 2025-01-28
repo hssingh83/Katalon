@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>1c777d17-27f2-4bdf-af32-979241522df1</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/StudioAsisit/Generate Code UserCase_1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -45,7 +45,7 @@
    <testCaseLink>
       <guid>64fd8433-0c95-4927-8213-227a37145309</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/StudioAsisit/Generate Code UserCase_2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -76,7 +76,7 @@
    <testCaseLink>
       <guid>6f121f2e-e20d-485d-b65c-07c10f39471f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/StudioAsisit/Generate Code UserCase_3</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -95,7 +95,7 @@
    <testCaseLink>
       <guid>90f7c60c-4c0c-4413-a9fd-67e80a87b73f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/StudioAsisit/Generate Code UserCase_4</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -114,7 +114,7 @@
    <testCaseLink>
       <guid>fa952d83-a69b-4ce1-beb8-b19b1e0f91d4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/StudioAsisit/Generate Code UserCase_5</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>

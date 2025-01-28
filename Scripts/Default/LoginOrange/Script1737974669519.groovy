@@ -19,15 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+CustomKeywords.'sample.OrgKeyWord.Applogin'()
 
-WebUI.setText(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/input_Username_username'), 'Admin')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
-
-WebUI.click(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/button_Login'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/OrangeHRM/Login/Page_OrangeHRM/h6_Dashboard'), 'Dashboard')
+CustomKeywords.'sample.OrgKeyWord.congrats'()
 
 WebUI.closeBrowser()
 

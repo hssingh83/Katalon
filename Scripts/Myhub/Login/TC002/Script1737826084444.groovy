@@ -19,16 +19,18 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://myhubblue.smdservers.net/Account/Login?ReturnUrl=%2f')
+WebUI.navigateToUrl(GlobalVariable.MyhubURL)
 
 WebUI.click(findTestObject('Object Repository/Muhub_Blue/Login/Page_Login - Invalid/body_(function()function c()var ba.contentD_92d7c6'))
 
-WebUI.setText(findTestObject('Object Repository/Muhub_Blue/Login/Page_Login - Invalid/input_Corp Code_Client.CorpCode'), 'SLQA')
+WebUI.setText(findTestObject('Object Repository/Muhub_Blue/Login/Page_Login - Invalid/input_Corp Code_Client.CorpCode'), 
+    'SLQA')
 
 WebUI.setText(findTestObject('Object Repository/Muhub_Blue/Login/Page_Login - Invalid/input_Location Code_Client.LocationCode'), 
     'HS')
 
-WebUI.setText(findTestObject('Object Repository/Muhub_Blue/Login/Page_Login - Invalid/input_User Name_Client.UserName'), 'HS')
+WebUI.setText(findTestObject('Object Repository/Muhub_Blue/Login/Page_Login - Invalid/input_User Name_Client.UserName'), 
+    'HS')
 
 WebUI.click(findTestObject('Object Repository/Muhub_Blue/Login/Page_Login - Invalid/input_Password_btn btn-lg btn-block btn-primary'))
 
