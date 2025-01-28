@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='Client_LocationCode']</value>
+         <value>//input[@id='Client_LocationCode111']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9bd132f4-b714-4abd-b9e3-ce2c08c3e51e</webElementGuid>
+      <webElementGuid>bae21731-c63d-4917-8082-62eb148eef77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>automation_id</name>
       <type>Main</type>
       <value>txt_clientLoginLocationCode</value>
-      <webElementGuid>f93f3115-3602-468e-bcad-9c466b3198ae</webElementGuid>
+      <webElementGuid>e4390186-fd2e-4800-a8b2-68578bdd43fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control uppercase allow-enter</value>
-      <webElementGuid>464ced07-d264-48c3-baa3-f14a442ac6a0</webElementGuid>
+      <webElementGuid>246a35b6-f910-4a01-8126-12630c5e7e41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4cb431d7-9ef9-49a0-87c5-ddb18ab98dd6</webElementGuid>
+      <webElementGuid>65428552-789e-4da6-ad9f-daf90dc890e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>data-val-regex</name>
       <type>Main</type>
       <value>Invalid Character</value>
-      <webElementGuid>b8161a4b-57e8-4e57-90f7-c675c3bbdc6c</webElementGuid>
+      <webElementGuid>ce596e05-76e3-46c1-8139-3bff2f0beb0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>data-val-regex-pattern</name>
       <type>Main</type>
       <value>^\w+$</value>
-      <webElementGuid>e91cc6c2-9f82-44a6-938d-7719b61d08d2</webElementGuid>
+      <webElementGuid>8409c135-c409-41df-92f5-3449bc77d44a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Location Code field is required.</value>
-      <webElementGuid>39297de0-e2e8-4aed-978b-df76446bbb00</webElementGuid>
+      <webElementGuid>4ed11bf7-1222-4095-9dd7-faaf18aa016b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Client_LocationCode</value>
-      <webElementGuid>2176d1e1-b639-4e05-accd-7ca0bdd6e365</webElementGuid>
+      <webElementGuid>f144e90f-06c1-4ff6-9854-ec372521a282</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Client.LocationCode</value>
-      <webElementGuid>86a70c37-1400-4890-ae5b-410d4e2a700a</webElementGuid>
+      <webElementGuid>0afe3568-ac21-43fa-9380-a222bdac4c14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>58a75f5e-ca20-4ac5-94e5-9a3bb0638017</webElementGuid>
+      <webElementGuid>b97e561a-36f8-4445-b26d-54b5b46ad32c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Client_LocationCode&quot;)</value>
-      <webElementGuid>4207019b-41ac-4863-9bfc-cbce12462129</webElementGuid>
+      <webElementGuid>227c45b4-ea57-4648-8701-1c05b97ff1d0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Client_LocationCode']</value>
-      <webElementGuid>257e53c8-a3ec-4aa4-99a2-b4306496cc56</webElementGuid>
+      <webElementGuid>c503b563-2516-464c-9d0a-e688f36a834d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='loginform']/div/div/form/div/div[2]/div/div[3]/div/input</value>
-      <webElementGuid>867873ca-d0ca-405d-a614-4aaec1ac800d</webElementGuid>
+      <webElementGuid>442baf82-907b-43e5-be38-8b1cd1eb172e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/input</value>
-      <webElementGuid>16adb3c1-9c6e-4b7d-a0f6-799be9d5d302</webElementGuid>
+      <webElementGuid>72540652-df0a-41d6-85da-05f077eba144</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'Client_LocationCode' and @name = 'Client.LocationCode' and @type = 'text']</value>
-      <webElementGuid>b3c69584-2f9c-4751-9140-ece119ef89c0</webElementGuid>
+      <webElementGuid>5c2b04d6-27fd-4a0d-9784-0b446d4f2060</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

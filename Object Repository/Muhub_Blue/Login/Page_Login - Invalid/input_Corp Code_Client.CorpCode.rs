@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='Client_CorpCode']</value>
+         <value>//input[@id='Client_CorpCode11']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>53036210-8d21-41de-a374-8523feff427d</webElementGuid>
+      <webElementGuid>909b91b8-5652-4e08-ace6-c79cc57c44c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>automation_id</name>
       <type>Main</type>
       <value>txt_clientLoginCorpCode</value>
-      <webElementGuid>9c266ce1-e2da-4947-bb0c-b6c39a5a8f76</webElementGuid>
+      <webElementGuid>2f686f82-3553-45b3-9297-f0597b1402e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control uppercase allow-enter</value>
-      <webElementGuid>69f0078d-4ab7-4cc0-a317-b30ba494f449</webElementGuid>
+      <webElementGuid>721ac844-a12d-426e-9080-67bda6601f31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>31bbb69c-f469-45bb-a776-3f4edb3e019f</webElementGuid>
+      <webElementGuid>0376eae9-e805-4d12-a3dc-713ae8552a9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>data-val-regex</name>
       <type>Main</type>
       <value>Invalid Character</value>
-      <webElementGuid>afaa837c-a3f3-439a-97a5-a746ea9cd5c4</webElementGuid>
+      <webElementGuid>62bf9c8f-f13b-40c8-b1c9-5c1a531d9fa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>data-val-regex-pattern</name>
       <type>Main</type>
       <value>^\w+$</value>
-      <webElementGuid>2d1ed8c6-7f89-43da-a359-44d855d88db7</webElementGuid>
+      <webElementGuid>c2f49924-6024-4b46-a222-9f689fb7484f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Corp Code field is required.</value>
-      <webElementGuid>a1d80175-5dbf-4fda-be55-7df3aaf3b76a</webElementGuid>
+      <webElementGuid>54fb4e5f-0124-4d74-8e27-e9e0ad4b42f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Client_CorpCode</value>
-      <webElementGuid>315be219-c589-4345-a6fa-779607c813fa</webElementGuid>
+      <webElementGuid>cbe6c1a6-9990-419d-b4c5-e537ec220b6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Client.CorpCode</value>
-      <webElementGuid>6faa55ae-2114-4f60-bf0c-27913fc3a5ec</webElementGuid>
+      <webElementGuid>6f0fe0dd-1e18-44e7-b1cf-7e5dfe8bb36f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7feb6a86-b0ea-420f-9262-83642edc6038</webElementGuid>
+      <webElementGuid>d9da2f6e-545d-49eb-9a3e-833c1bd7a6b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Client_CorpCode&quot;)</value>
-      <webElementGuid>f216f663-edac-406d-be47-49eea380e4d3</webElementGuid>
+      <webElementGuid>3e3c213e-939f-4b33-bfaa-fcf2e1d518ea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Client_CorpCode']</value>
-      <webElementGuid>200a568c-ce11-413a-8a9c-fefef41db702</webElementGuid>
+      <webElementGuid>3247176b-1341-46f5-bb94-0d293699e501</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='loginform']/div/div/form/div/div[2]/div/div[2]/div/input</value>
-      <webElementGuid>d9de42f9-70f5-404f-81ca-74cf625c6656</webElementGuid>
+      <webElementGuid>422d9b8b-8d3b-4639-a4ba-5dfc958fa0f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>239e4fef-a0e5-46f4-9610-aca5ac6859b1</webElementGuid>
+      <webElementGuid>c78f678b-792e-4d83-a407-f23c12224cc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'Client_CorpCode' and @name = 'Client.CorpCode' and @type = 'text']</value>
-      <webElementGuid>a1a93f35-c16d-4b5a-a119-ccaa3bb5453f</webElementGuid>
+      <webElementGuid>f409e48a-0abc-4eaf-aa85-389f81a0e9af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
