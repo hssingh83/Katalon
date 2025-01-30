@@ -6,12 +6,12 @@
    <elementGuidId>f2506f9d-d121-433a-a35c-e9a83a25a4e4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='react-app']/div[3]/nav/div/ul/li[2]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.menu-content.visible > ul > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Operations']/parent::*</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>aed96b60-667a-4fac-91a3-4489caa106cd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>form.oxd-form</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form[@action='/web/index.php/auth/validate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.oxd-form</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>15cabc74-f6bd-4084-9a94-6ba3cf92b3f3</webElementGuid>
+      <webElementGuid>c87a48fa-8e67-4eff-90e9-29072e5897cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-form</value>
-      <webElementGuid>82606b99-b2d3-46e3-8e76-5fcae25acfeb</webElementGuid>
+      <webElementGuid>0b85bf4f-1ed1-410b-b1fb-4484522b8651</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>method</name>
       <type>Main</type>
       <value>post</value>
-      <webElementGuid>054ccdad-9b71-4c40-a33e-baffc122cf87</webElementGuid>
+      <webElementGuid>603b8824-001b-4ab2-8c30-06e655e67acb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>action</name>
       <type>Main</type>
       <value>/web/index.php/auth/validate</value>
-      <webElementGuid>9e38b9a2-5173-4346-af50-38f5ad6b6092</webElementGuid>
+      <webElementGuid>79f8e70f-076c-4106-99d8-ef37a661d561</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>UsernamePassword Login Forgot your password? </value>
-      <webElementGuid>c393711d-36a5-4cc9-b34f-1e2f48493257</webElementGuid>
+      <webElementGuid>b103c188-2d83-431b-ba4b-8a4cda2e5aab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]/div[@class=&quot;orangehrm-login-slot&quot;]/div[@class=&quot;orangehrm-login-form&quot;]/form[@class=&quot;oxd-form&quot;]</value>
-      <webElementGuid>d5d2b27e-814e-4428-8078-79fcee2aff06</webElementGuid>
+      <webElementGuid>c56d5c38-7910-4c16-89ed-3ddb75ddd30a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//form[@action='/web/index.php/auth/validate']</value>
-      <webElementGuid>62cb8059-23a7-4d00-8f0a-0a0f0281ff20</webElementGuid>
+      <webElementGuid>180c042e-d0eb-41e4-9147-b30019af458d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/form</value>
-      <webElementGuid>3f253808-13c5-4ad6-b329-13aae4f1cd97</webElementGuid>
+      <webElementGuid>3f59a4b4-9579-4c17-9ebf-5076596279bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form</value>
-      <webElementGuid>39180848-2e3f-4064-b5cb-2dcb3f25b30b</webElementGuid>
+      <webElementGuid>18a8330d-5e41-4b1d-aa69-71a9705c6fa0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//form[(text() = 'UsernamePassword Login Forgot your password? ' or . = 'UsernamePassword Login Forgot your password? ')]</value>
-      <webElementGuid>09564c91-b0cb-4e69-9e48-45538be2e0b5</webElementGuid>
+      <webElementGuid>ac0c4e3a-5666-4d76-a8ed-293f977d791a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
